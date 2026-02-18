@@ -9,4 +9,4 @@
 
 ## Проекты:
 - 📩 **[TgPoster](https://github.com/rammtw/tgposter)** - CLI утилита для постинга в Telegram канал
-- 🗑️ **[CV Auto-Reject](https://github.com/rammtw/cv-auto-reject)** веб-сервис, который имитирует процесс подачи резюме на вакансию
+- 🗑️ **[CV Auto-Reject](https://github.com/rammtw/cv-auto-reject)** - веб-сервис, который имитирует процесс подачи резюме на вакансию
