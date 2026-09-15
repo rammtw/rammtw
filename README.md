@@ -9,7 +9,7 @@
 
 🔧 Backend: Go, PHP 8+, Symfony, REST/gRPC
 
-🗄 Данные: PostgreSQL, проектирование схем, оптимизация запросов
+📊 Данные: PostgreSQL, проектирование схем, оптимизация запросов
 
 📨 Асинхронность: Kafka, RabbitMQ, outbox, exactly-once по мере возможного
 
